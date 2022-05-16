@@ -20,19 +20,20 @@
 14. 박자에 맞추어 노트 찍기
 15. 노트 판정 함수 구현하기
 16. 노트 판정 디자인 입히기 
+ 
+---
+
+* images 폴더 필요
+
+* music 폴더 필요
 
 ---
 
-**images 폴더 필요
-**music 폴더 필요
+* Java Build Path -> Add External JARs... (classpath) => jl1.0.1.jar
 
----
+---            
 
-**Java Build Path -> Add External JARs... (classpath) => jl1.0.1.jar
-
----
-
-**자바 Eclipse 환경에서 개별 곡 3가지 음악(Easy, Hard)에 따른 노트를 입력하고, 이에 맞추어 비트를 연주하는 Dynamic Beat 게임을 플레이 할 수 있다
+* 자바 Eclipse 환경에서 개별 곡 3가지 음악(Easy, Hard)에 따른 노트를 입력하고, 이에 맞추어 비트를 연주하는 Dynamic Beat 게임을 플레이 할 수 있다
 
 ---
 
